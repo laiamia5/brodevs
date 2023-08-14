@@ -1,0 +1,24 @@
+plan 1 = $699
+plan 2 = $1399
+plan 3 = $2099
+
+plan 1 paginas estaticas
+ideal para informativas/blogs/portafolios
+*diseño ui, incluye responsive
+*hosting y dominio
+
+plan 2
+ideal para ecommerce/market place
+*diseño ui, incluye responsive
+*hosting y dominio
+*front-end framework
+*servidor y base de datos
+
+plan 3
+ideal para redes sociales
+*diseño ui, incluye responsive
+*hosting y dominio
+*front-end framework
+*servidor y base de datos
+*escalabilidad
+*Server Side Rendering
