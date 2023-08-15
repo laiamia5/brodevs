@@ -6393,7 +6393,7 @@ textarea.textarea-lg {
 	}
 }
 
-@media (min-width: 992px) {
+@media (min-width: 300px) {
 	.desktop .thumbnail-classic-figure img {
 		transform: scale(1.025);
 		will-change: transform;
@@ -6433,7 +6433,7 @@ textarea.textarea-lg {
 	}
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 300px) {
 	.desktop .thumbnail-classic-caption {
 		padding: 30px;
 	}
@@ -6442,7 +6442,7 @@ textarea.textarea-lg {
 	}
 }
 
-@media (min-width: 1800px) {
+@media (min-width: 300px) {
 	.thumbnail-md .thumbnail-classic-caption {
 		padding-left: 40px;
 		padding-right: 40px;
