@@ -6393,7 +6393,7 @@ textarea.textarea-lg {
 	}
 }
 
-@media (min-width: 200px) {
+
 	.desktop .thumbnail-classic-figure img {
 		transform: scale(1.025);
 		will-change: transform;
@@ -6431,23 +6431,23 @@ textarea.textarea-lg {
 		visibility: visible;
 		transform: none;
 	}
-}
 
-@media (min-width: 200px) {
+
+
 	.desktop .thumbnail-classic-caption {
 		padding: 30px;
 	}
 	.desktop .thumbnail-classic-text {
 		font-size: inherit;
 	}
-}
 
-@media (min-width: 200px) {
+
+
 	.thumbnail-md .thumbnail-classic-caption {
 		padding-left: 40px;
 		padding-right: 40px;
 	}
-}
+
 
 * + .thumbnail-classic-text {
 	margin-top: 14px;
